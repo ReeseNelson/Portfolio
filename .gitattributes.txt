@@ -1,0 +1,10 @@
+* text=auto
+*.uasset binary
+*.umap binary
+*.fbx binary
+*.png binary
+*.jpg binary
+*.wav binary
+*.mp4 binary
+*.uasset lockable
+*.umap lockable
