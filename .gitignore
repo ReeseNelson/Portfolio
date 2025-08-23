@@ -1,17 +1,28 @@
-# Unreal Engine
+# Unreal Engine folders to ignore
 Saved/
 Intermediate/
 DerivedDataCache/
+Build/
+Binaries/
+.vscode/
+.idea/
 *.sln
 *.suo
 *.opensdf
 *.sdf
 *.VC.db
 *.VC.opendb
+
+# Unreal binary assets
+*.uasset
+*.umap
+*.ubulk
+*.uexp
+*.udic
+
+# Optional: ignore compiled shaders and logs
 *.log
-*.tmp
-*.vscode/
-Binaries/
-Build/
-*.user
-*.userprefs
+*.bin
+*.pdb
+*.dll
+*.exe
